@@ -61,7 +61,7 @@ export default function Calls() {
 
       <div className="bg-white p-4 rounded-xl shadow flex items-center gap-4">
         <div className="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center text-2xl">
-          🤖
+          
         </div>
 
         <div className="flex-1">
