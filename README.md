@@ -1,4 +1,4 @@
-SpeakGenie UI – Frontend Assignment (Next.js & Tailwind)
+# UI – Frontend Assignment
 
 This project is a mobile-friendly UI built using Next.js 14, React, and Tailwind CSS.
 It recreates the main screens of the SpeakGenie learning app as part of the frontend assignment.
@@ -26,7 +26,7 @@ The UI is optimized for a 360px mobile layout with clean spacing and simple inte
 
 Tailwind CSS keeps styling consistent and easy to extend.
 
-📱 Screens Included
+# 📱 Screens Included
 1. Home Screen
 
 Greeting, avatar, and XP progress
@@ -67,7 +67,7 @@ Avatar, XP progress, and user details
 
 Settings options (Edit profile, Change password, Logout)
 
-🧰 Tech Stack
+## Tech Stack
 
 Next.js 14 (App Router)
 
@@ -77,7 +77,7 @@ Tailwind CSS
 
 TypeScript
 
-📂 Project Structure
+## 📂 Project Structure
 app/
  ├─ page.tsx              # Home
  ├─ learn/                # Learn screen
@@ -96,16 +96,16 @@ components/
 public/
  └─ stories/              # Story thumbnails
 
-How to Run the Project
+# How to Run the Project
 npm install
 npm run dev
 
 
-Then open the app in your browser:
+# Live Link:
 
-http://localhost:3000
+https://ui-orpin-nu.vercel.app/
 
-Summary for Recruiters
+# Summary for Recruiters:
 
 This project highlights my ability to:
 
@@ -120,3 +120,6 @@ Work with modern frameworks like Next.js and Tailwind
 Deliver clean, readable, and well-organized code
 
 Implement smooth navigation and user experience
+
+# Developer:
+Shiva kumar Deshi
