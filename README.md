@@ -1,125 +1,54 @@
-# UI – Frontend 
+# 🎨 UI Development Projects
 
-This project is a mobile-friendly UI built using Next.js 14, React, and Tailwind CSS.
-It recreates the main screens of the SpeakGenie learning app as part of the frontend assignment.
+This repository contains a collection of modern and responsive user interface projects built using React and modern frontend technologies.
 
-The goal was to take a mockup-style design and convert it into a clean, responsive, and fully navigable user interface.
+These projects focus on creating clean layouts, interactive components, and mobile-first user experiences.
 
-What This Project Demonstrates
-✔ Ability to convert UI designs into working screens
+---
 
-Each screen is rebuilt to closely match the assignment layout while keeping the user experience simple and smooth.
+## 🚀 Features
 
-✔ Component-based architecture
+- Responsive layouts
+- Component-based architecture
+- Interactive UI elements
+- Mobile-first design approach
+- Smooth animations & transitions
+- Modern web design practices
 
-Header, Navbar, XP Card, Story Cards, and Action Icons are designed as reusable components to keep the project clean and maintainable.
+---
 
-✔ Smooth navigation using Next.js
+## 🛠️ Tech Stack
 
-All screens are connected through Next.js routing, giving the feel of a real mobile application.
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
 
-✔ Mobile-first approach
+---
 
-The UI is optimized for a 360px mobile layout with clean spacing and simple interactions.
+## 📌 Purpose
 
-✔ Readable, scalable code
+The goal of these projects is to demonstrate frontend development skills including:
 
-Tailwind CSS keeps styling consistent and easy to extend.
+- UI/UX design implementation
+- Component reusability
+- Responsive web design
+- Layout structuring
+- Styling techniques
 
-# 📱 Screens Included
-1. Home Screen
+---
 
-Greeting, avatar, and XP progress
+## 🔮 Future Improvements
 
-Quick actions (Learn, Calls, Stories, Quiz)
+- Accessibility enhancements
+- Performance optimization
+- Additional UI components
+- Advanced animations
 
-Horizontal story list
+---
 
-Bottom navigation bar
+## 👨‍💻 Developed By
 
-2. Learning Screen
-
-Lesson list with thumbnails
-
-Clicking a lesson opens the audio player (Now Playing)
-
-3. Calls Screen
-
-Placeholder interface
-
-Navigation works smoothly
-
-4. Now Playing (Screen 2)
-
-Story artwork and details
-
-Audio controls: Play, Pause, Next, Previous
-
-Progress bar and timestamps
-
-5. Quiz Screen (Screen 3)
-
-Placeholder quiz UI ready for future logic
-
-6. Profile Screen
-
-Avatar, XP progress, and user details
-
-Settings options (Edit profile, Change password, Logout)
-
-## Tech Stack
-
-Next.js 14 (App Router)
-
-React
-
-Tailwind CSS
-
-TypeScript
-
-## 📂 Project Structure
-app/
- ├─ page.tsx              # Home
- ├─ learn/                # Learn screen
- ├─ calls/                # Calls screen
- ├─ now-playing/          # Audio player (Screen 2)
- ├─ quiz/                 # Quiz (Screen 3)
- └─ profile/              # Profile screen
-
-components/
- ├─ Header.tsx
- ├─ Navbar.tsx
- ├─ XPCard.tsx
- ├─ StoryCard.tsx
- └─ ActionIcons.tsx
-
-public/
- └─ stories/              # Story thumbnails
-
-# How to Run the Project
-npm install
-npm run dev
-
-
-# Live Link:
-
-https://ui-orpin-nu.vercel.app/
-
-# Summary for Recruiters:
-
-This project highlights my ability to:
-
-Understand UI requirements
-
-Build responsive, mobile-first layouts
-
-Create reusable component structures
-
-Work with modern frameworks like Next.js and Tailwind
-
-Deliver clean, readable, and well-organized code
-
-Implement smooth navigation and user experience
-
-# Developed By:
-Shiva kumar Deshi
+Shiva Kumar Deshi  
+GitHub: https://github.com/Deshishiva
