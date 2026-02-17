@@ -1,4 +1,4 @@
-# UI – Frontend Assignment
+# UI – Frontend 
 
 This project is a mobile-friendly UI built using Next.js 14, React, and Tailwind CSS.
 It recreates the main screens of the SpeakGenie learning app as part of the frontend assignment.
@@ -121,5 +121,5 @@ Deliver clean, readable, and well-organized code
 
 Implement smooth navigation and user experience
 
-# Developer:
+# Developed By:
 Shiva kumar Deshi
